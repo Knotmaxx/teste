@@ -1,1 +1,1 @@
-worker: python teste_bot.py
+web: python teste_bot.py
